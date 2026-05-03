@@ -27,10 +27,15 @@ I'm **OM**, a passionate **Student & Developer** from India, focused on building
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-React • Node.js • Flask
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
 
 ### Tools & Platforms
-Git • GitHub • VS Code • Linux
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
 
 ---
 
@@ -55,11 +60,18 @@ Git • GitHub • VS Code • Linux
 
 ## 🌐 Connect With Me
 
-- [GitHub](https://github.com/odesrani-create)
-- [Twitter](https://x.com/ODesrani93970)
-- [LinkedIn](https://www.linkedin.com/in/om-desrani-7a7176320?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Email](odesrani@gmail.com)
-
+<a href="https://github.com/odesrani-create" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/ODesrani93970" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/om-desrani-7a7176320?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:odesrani@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 ---
 
 ## 💬 Let's Talk!

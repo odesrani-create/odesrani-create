@@ -58,7 +58,17 @@ I'm **OM**, a passionate **Student & Developer** from India, focused on building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=odesrani-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=00d9ff&icon_color=00ff88" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=odesrani-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=00d9ff&icon_color=00ff88&card_width=500" alt="GitHub Stats" />
+
+</div>
+
+---
+
+## 🟢 **Status: Actively Coding**
+
+<div align="center">
+
+Currently building amazing projects and learning new technologies!
 
 </div>
 

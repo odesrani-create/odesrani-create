@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Binary Rain Background Animation -->
+<div style="position: relative; width: 100%; overflow: hidden;">
+  <canvas id="binaryRain" style="position: absolute; top: 0; left: 0; width: 100%; height: 300px; background: #0a0e27; display: block;"></canvas>
+</div>
+
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+Dev+Space;Building+the+Future+with+Code;Welcome+to+My+Digital+Canvas" alt="Typing SVG" /></div>
 
 ---
@@ -205,3 +210,72 @@
 ```
 
 </div>
+
+---
+
+<!-- Binary Rain Animation Script -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const canvas = document.getElementById('binaryRain');
+    if (!canvas) return;
+    
+    const ctx = canvas.getContext('2d');
+    canvas.width = canvas.offsetWidth;
+    canvas.height = 300;
+    
+    const characters = '01アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン';
+    const charArray = characters.split('');
+    
+    const fontSize = 16;
+    const columns = canvas.width / fontSize;
+    const drops = Array(Math.floor(columns)).fill(0);
+    
+    function draw() {
+      ctx.fillStyle = 'rgba(10, 14, 39, 0.1)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      
+      ctx.fillStyle = '#00D9FF';
+      ctx.font = `${fontSize}px monospace`;
+      ctx.shadowColor = '#00D9FF';
+      ctx.shadowBlur = 10;
+      
+      for (let i = 0; i < drops.length; i++) {
+        const text = charArray[Math.floor(Math.random() * charArray.length)];
+        const x = i * fontSize;
+        const y = drops[i] * fontSize;
+        
+        ctx.fillText(text, x, y);
+        
+        if (y > canvas.height && Math.random() > 0.975) {
+          drops[i] = 0;
+        }
+        
+        drops[i]++;
+      }
+      
+      requestAnimationFrame(draw);
+    }
+    
+    draw();
+    
+    window.addEventListener('resize', function() {
+      canvas.width = canvas.offsetWidth;
+    });
+  });
+</script>
+
+<style>
+  canvas {
+    filter: brightness(1.1);
+    animation: glow 2s ease-in-out infinite;
+  }
+  
+  @keyframes glow {
+    0%, 100% {
+      filter: brightness(1.1) drop-shadow(0 0 5px #00D9FF);
+    }
+    50% {
+      filter: brightness(1.2) drop-shadow(0 0 10px #00D9FF);
+    }
+  }
+</style>

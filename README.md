@@ -56,9 +56,9 @@ Git • GitHub • VS Code • Linux
 ## 🌐 Connect With Me
 
 - [GitHub](https://github.com/odesrani-create)
-- [Twitter](https://twitter.com/odesrani)
-- [LinkedIn](https://linkedin.com/in/odesrani)
-- [Email](mailto:om@example.com)
+- [Twitter](https://x.com/ODesrani93970)
+- [LinkedIn](https://www.linkedin.com/in/om-desrani-7a7176320?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [Email](odesrani@gmail.com)
 
 ---
 

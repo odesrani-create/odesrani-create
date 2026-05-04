@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Dev+Space;Building+Amazing+Web+Solutions;Let's+Code+Something+Great)](https://github.com/odesrani-create)
 
----
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/37dcb8c0-8deb-448e-9120-9b9f9608d527" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odesrani-create&show_icons=true&theme=tokyonight" />
-</p>
 ## 👋 About Me
 
 I'm **OM**, a passionate **Student & Developer** from India, focused on building beautiful and functional web applications. I love turning ideas into reality with code!

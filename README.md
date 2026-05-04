@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Dev+Space;Building+Amazing+Web+Solutions;Let's+Code+Something+Great)](https://github.com/odesrani-create)
 
 ---
-<p align="center">
-  <img src="https://github.com/shreyamishra-maker/shreyamishra-maker/This PC/Download/banner.png" width="100%" />
-</p>
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/37dcb8c0-8deb-448e-9120-9b9f9608d527" />
+
 
 # 👋 Hey, I'm Om Desrani
 ## 👋 About Me

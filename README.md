@@ -4,9 +4,9 @@
 
 ---
 <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/37dcb8c0-8deb-448e-9120-9b9f9608d527" />
-
-
-# 👋 Hey, I'm Om Desrani
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odesrani-create&show_icons=true&theme=tokyonight" />
+</p>
 ## 👋 About Me
 
 I'm **OM**, a passionate **Student & Developer** from India, focused on building beautiful and functional web applications. I love turning ideas into reality with code!

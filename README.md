@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Dev+Space;Building+Amazing+Web+Solutions;Let's+Code+Something+Great)](https://github.com/odesrani-create)
 
 ---
+<p align="center">
+  <img src="https://github.com/shreyamishra-maker/shreyamishra-maker/This PC/Download/banner.png" width="100%" />
+</p>
 
+# 👋 Hey, I'm Om Desrani
 ## 👋 About Me
 
 I'm **OM**, a passionate **Student & Developer** from India, focused on building beautiful and functional web applications. I love turning ideas into reality with code!

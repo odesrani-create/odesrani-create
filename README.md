@@ -51,13 +51,6 @@ I'm **OM**, a passionate **Student & Developer** from India, focused on building
 
 ---
 
-## 🎯 Current Goals
-
-✅ Master React & Advanced JavaScript  
-✅ Build Full-Stack Applications  
-✅ Contribute to Open Source  
-✅ Learn Next.js & TypeScript  
-✅ Create Impactful Projects  
 
 ---
 

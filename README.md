@@ -1,6 +1,7 @@
 # 🚀 OM - Full-Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Dev+Space;Building+Amazing+Web+Solutions;Let's+Code+Something+Great)](https://github.com/odesrani-create)
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/f49191f8-77f8-4c80-9d05-20d1fa20952a" />
 
 ## 👋 About Me
 

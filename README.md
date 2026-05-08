@@ -83,6 +83,6 @@ I'm always open to collaborations, freelance opportunities, and learning from ot
 
 ---
 
-### 🙂 Made by OM 😎 | 2026
+###  Made by OM 😎 | 2026
 
 Thanks for visiting my profile! Don't forget to star ⭐ if you like it!

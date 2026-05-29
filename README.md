@@ -14,8 +14,6 @@ I'm **OM**, a passionate **Student & Developer** from India, focused on building
 ---
 
 
-https://github.com/user-attachments/assets/a023e1b5-dbbd-411c-a3a9-69e0e0eaaad3
-
 
 ## 🛠️ Tech Stack
 
